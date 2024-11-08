@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there 👋 I'm Christian.
 
-<!--
-**devchristian1337/devchristian1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 21-year-old passionate web developer always eager to learn new things. My primary goal is to become a successful Fullstack Developer.
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- HTML, CSS and JavaScript
+- C++, Java and C
+- Node.js
+- React (currently learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always curious to explore new tools and frameworks to constantly improve my abilities.
+
+### 🚀 My Passion
+In my free time, I enjoy working on personal projects and participating in hackathons to put what I've learned into practice and learn new things. My aim is to build innovative, efficient and visually appealing web and mobile applications.
+
+### 📁 My Projects
+Here are some of my recent projects:
+
+* [Password Generator](https://password-generator-eight-pearl.vercel.app/) - [Repository](https://github.com/devchristian1337/password-generator)
+* [Calculator](https://calculator-xi-ebon-42.vercel.app/) - [Repository](https://github.com/devchristian1337/Calculator)
+* [Todo App](https://todo-beryl-eight.vercel.app/) - [Repository](https://github.com/devchristian1337/Todo)
+
+### 💼 Get in Touch
+I'm excited to join a dynamic development team where I can share my knowledge and acquire new ones. If you're interested in my profile, feel free to contact me!
