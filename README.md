@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Christian.
 
-I'm a 21-year-old passionate web developer always eager to learn new things. My primary goal is to become a successful Fullstack Developer.
+I'm a 22-year-old passionate web developer always eager to learn new things. My primary goal is to become a successful Fullstack Developer.
 
 ### 🛠 Skills
 - HTML, CSS and JavaScript
