@@ -26,7 +26,7 @@ I'm Christian, 22yo Fullstack Web Dev. Skilled in C++, C, Java, HTML, CSS, JS, N
 
 <div align="center">
   <img
-    src="https://visitor-badge.laobi.icu/badge?page_id=devchristian1337.devchristian1337&left_color=black&right_color=blue&left_text=Profile%20Views"
+    src="https://visitor-badge.laobi.icu/badge?page_id=devchristian1337.devchristian1337&left_color=black&right_color=blue&left_text=👁️‍🗨️Profile%20Views"
   />
 </div>
 
