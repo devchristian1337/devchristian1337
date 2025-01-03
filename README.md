@@ -1,24 +1,24 @@
-## Hi there 👋 I'm Christian.
+# 💫 About Me:
+I'm Christian, 22yo Fullstack Web Dev. Skilled in C++, C, Java, HTML, CSS, JS, Node.js. Learning React. Passionate about building innovative, efficient apps.
 
-I'm a 22-year-old passionate web developer always eager to learn new things. My primary goal is to become a successful Fullstack Developer.
 
-### 🛠 Skills
-- HTML, CSS and JavaScript
-- C++, Java and C
-- Node.js
-- React (currently learning)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/christianellasad) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Chtistian123154) 
 
-I'm always curious to explore new tools and frameworks to constantly improve my abilities.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=devchristian1337&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=devchristian1337&theme=discord_old_blurple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devchristian1337&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🚀 My Passion
-In my free time, I enjoy working on personal projects and participating in hackathons to put what I've learned into practice and learn new things. My aim is to build innovative, efficient and visually appealing web and mobile applications.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=devchristian1337&theme=discord_old_blurple&no-frame=false&no-bg=true&margin-w=4)
 
-### 📁 My Projects
-Here are some of my recent projects:
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=devchristian1337&limit=5&theme=discord_old_blurple&combine_all_yearly_contributions=true)
 
-* [Password Generator](https://password-generator-eight-pearl.vercel.app/) - [Repository](https://github.com/devchristian1337/password-generator)
-* [Calculator](https://calculator-xi-ebon-42.vercel.app/) - [Repository](https://github.com/devchristian1337/Calculator)
-* [Todo App](https://todo-beryl-eight.vercel.app/) - [Repository](https://github.com/devchristian1337/Todo)
+---
+[![](https://visitcount.itsvg.in/api?id=devchristian1337&icon=5&color=12)](https://visitcount.itsvg.in)
 
-### 💼 Get in Touch
-I'm excited to join a dynamic development team where I can share my knowledge and acquire new ones. If you're interested in my profile, feel free to contact me!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
