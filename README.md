@@ -3,7 +3,8 @@
 I'm Christian, 22yo Fullstack Web Dev. Skilled in C++, C, Java, HTML, CSS, JS, Node.js. Learning React. Passionate about building innovative, efficient apps.
 
 
-## 🌐 Socials:
+<h1 align="center">🌐 Socials</h1>
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/christianellasad) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Chtistian123154) 
 
 # 💻 Tech Stack:
