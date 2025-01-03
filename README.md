@@ -15,12 +15,6 @@ I'm Christian, 22yo Fullstack Web Dev. Skilled in C++, C, Java, HTML, CSS, JS, N
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devchristian1337&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&bg_color=2c2f33" height="300" alt="activity-graph graph"  />
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=devchristian1337&theme=discord_old_blurple&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=devchristian1337&limit=5&theme=discord_old_blurple&combine_all_yearly_contributions=true)
-
 ---
 
 <img src="https://raw.githubusercontent.com/devchristian1337/devchristian1337/output/snake.svg" alt="Snake animation" />
