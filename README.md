@@ -21,3 +21,5 @@ I'm Christian, 22yo Fullstack Web Dev. Skilled in C++, C, Java, HTML, CSS, JS, N
 </div>
 
 ---
+
+<img src="https://raw.githubusercontent.com/devchristian1337/devchristian1337/output/snake.svg" alt="Snake animation" />
