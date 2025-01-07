@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://iili.io/2gwSUDx.png"  />
+    <img src="https://iili.io/2gNHWYu.png"  />
 </div>
 
 <h1 align="center">💫 About Me</h1>
