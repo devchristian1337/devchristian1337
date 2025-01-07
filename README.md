@@ -1,5 +1,5 @@
 <div align="center">
-    ![Header](./github-header-image.png)
+    <img src="./github-header-image.png"  />
 </div>
 
 <h1 align="center">💫 About Me</h1>
