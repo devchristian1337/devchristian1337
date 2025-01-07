@@ -1,3 +1,5 @@
+![Header](./github-header-image)
+
 <h1 align="center">💫 About Me</h1>
 
 I'm Christian, 22yo Fullstack Web Dev. Skilled in C++, C, Java, HTML, CSS, JS, Node.js. Learning React. Passionate about building innovative, efficient apps.
