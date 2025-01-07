@@ -6,10 +6,19 @@
 
 I'm Christian, 22yo Fullstack Web Dev. Skilled in C++, C, Java, HTML, CSS, JS, Node.js. Learning React. Passionate about building innovative, efficient apps.
 
-
 <h1 align="center">🌐 Socials</h1>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/christianellasad) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Chtistian123154) 
+<div align="center">
+  <a href="https://www.instagram.com/christianellasad/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://x.com/Chtistian123154" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://t.me/depressoh" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+</div>
 
 <h1 align="center">💻 Tech Stack</h1>
 
@@ -33,4 +42,3 @@ I'm Christian, 22yo Fullstack Web Dev. Skilled in C++, C, Java, HTML, CSS, JS, N
     src="https://visitor-badge.laobi.icu/badge?page_id=devchristian1337.devchristian1337&left_color=black&right_color=blue&left_text=Profile%20Views"
   />
 </div>
-
