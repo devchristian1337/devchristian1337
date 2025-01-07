@@ -8,6 +8,8 @@ I'm Christian, 22yo Fullstack Web Dev. Skilled in C++, C, Java, HTML, CSS, JS, N
 
 <h1 align="center">🌐 Socials</h1>
 
+<br clear="both">
+
 <div align="center">
   <a href="https://www.instagram.com/christianellasad/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
