@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./github-header-image.png"  />
+    <img src="https://iili.io/2gwSUDx.png"  />
 </div>
 
 <h1 align="center">💫 About Me</h1>
