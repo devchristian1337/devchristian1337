@@ -8,16 +8,8 @@ I'm Christian, 22yo Fullstack Web Dev. Skilled in C++, C, Java, HTML, CSS, JS, N
 
 <h1 align="center">🌐 Socials</h1>
 
-<div align="left">
-  <a href="https://x.com/Chtistian123154" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/christianellasad/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://t.me/depressoh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
+<div align="center">
+<a href='https://t.me/depressoh' target="_blank"><img alt='Telegram' src='https://img.shields.io/badge/Telegram-100000?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=148EF4&color=black'/></a>
 </div>
 
 <h1 align="center">💻 Tech Stack</h1>
