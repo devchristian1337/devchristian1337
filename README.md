@@ -10,7 +10,6 @@ I'm Christian, 22yo Fullstack Web Dev. Skilled in C++, C, Java, HTML, CSS, JS, N
 
 <div align="center">
 <a href='https://x.com/1337Christian' target="_blank"><img alt='x' src='https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=x&logoColor=white&labelColor=148EF4&color=black'/></a>
-<a href='https://www.instagram.com/christianellasad/' target="_blank"><img alt='instagram' src='https://img.shields.io/badge/instagram-100000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=148EF4&color=black'/></a>
 </div>
 
 <h1 align="center">💻 Tech Stack</h1>
